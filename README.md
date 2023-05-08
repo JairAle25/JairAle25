@@ -19,6 +19,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="" width="80" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="40" height="40">
         <img src="https://1000marcas.net/wp-content/uploads/2020/12/Microsoft-Excel-Logo-2013.png" alt="" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2170px-Microsoft_Word_2013-2019_logo.svg.png" alt="" width="40" height="40">
