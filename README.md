@@ -1,7 +1,7 @@
 <div class="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="140">
-    <h1 align="center">hi 👋 , i'm Jair Cornejo</h1>
-    <h3 align="center">I am a programming student from Argentina, I really like the digital world and every day I am learning more</h3>
+    <h1 align="center">Hi 👋 , I'm Jair Cornejo</h1>
+    <h3 align="center">I am a Front End Developer and programming student from Argentina, I really like the digital world and I learn more every day</h3>
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 - 📚 I am currently in my second year of university studying programming.
 
-- 💻 I am currently learning **C#, SQL, HTML, CSS and JavaScript**
+- 💻 I am currently learning **C#, .NET Framework ,SQL, HTML, CSS and JavaScript**
 
 <div align="left">
     <h3> 🛠️ Languages and Tools:</h3>
