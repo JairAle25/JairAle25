@@ -18,8 +18,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"  width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="" width="80" height="40">
+        <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="" width="80" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt="" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="40" height="40">
