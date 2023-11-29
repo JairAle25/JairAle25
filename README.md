@@ -10,7 +10,7 @@
 
 - 📚 I am currently in my second year of university studying programming.
 
-- 💻 I am currently learning **C#, .NET Framework ,SQL, HTML, CSS and JavaScript**
+- 💻 I am currently learning **Java and React**
 
 <div align="left">
     <h3> 🛠️ Languages and Tools:</h3>
