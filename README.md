@@ -10,15 +10,17 @@
 
 - 📚 I am currently in my second year of university studying programming.
 
-- 💻 I am currently learning **Java and React**
+- 💻 I am currently learning **Tailwind and Astro**
 
 <div align="left">
     <h3> 🛠️ Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="" width="40" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="" width="60">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"  width="40" height="40">
+        <img src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png"  width="28">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="" width="40" height="40">
         <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="" width="80" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="" width="40" height="40">
