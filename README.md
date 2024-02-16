@@ -45,5 +45,5 @@
 ### 🔥 Look what I can do
 
 <div>
-    <a href="https://portafolio-jair.netlify.app/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="" width="60" height="60"></a>
+    <a href="https://portafolio-jair.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="" width="60" height="60"></a>
 </div>
