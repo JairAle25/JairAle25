@@ -1,7 +1,7 @@
 <div class="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="140">
     <h1 align="center">Hi 👋 , I'm Jair Cornejo</h1>
-    <h3 align="center">I am a Front End Developer and programming student from Argentina, I really like the digital world and I learn more every day</h3>
+    <h3 align="center">I am a Full Stack Node.js Developer and programming student from Argentina, I really like the digital world and I learn more every day</h3>
 </div>
 
 ---
